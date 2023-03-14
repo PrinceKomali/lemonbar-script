@@ -1,0 +1,2 @@
+#!/bin/sh
+./build/out | lemonbar -b -f "Ubuntu Mono:size=12:style=Bold" -B "#50000000" -F "#C5C8C6" -g x24 2> ~/lblog
